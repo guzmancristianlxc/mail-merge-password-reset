@@ -1,1 +1,1 @@
-# mail-merge-password-reset
+Mail Merge Password Reset Mail
